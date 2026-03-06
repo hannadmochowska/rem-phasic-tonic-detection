@@ -1,0 +1,26 @@
+file_name,total_rem_s,total_phasic_s,total_tonic_s,total_transition_s,pct_phasic_of_rem,pct_tonic_of_rem,pct_transition_of_rem,n_rem_periods,n_phasic_bouts,n_tonic_bouts,n_transition_bouts,mean_phasic_bouts_per_rem,mean_tonic_bouts_per_rem,mean_transition_bouts_per_rem,theta_eeg_channel,theta_eeg_note,preproc_note
+SC4001E0-PSG.edf,3750.0,925.47,2040.0,412.0,24.679,54.4,10.987,6,125,95,80,20.833,15.833,13.333,Pz-Oz,Theta computed from EEG Pz-Oz; labels from EOG.,Bandpass 0.1–60.0 Hz; Welch detrend=linear.
+SC4002E0-PSG.edf,6450.0,3174.74,1828.0,452.0,49.221,28.341,7.008,12,321,216,104,26.75,18.0,8.667,Pz-Oz,Theta computed from EEG Pz-Oz; labels from EOG.,Bandpass 0.1–60.0 Hz; Welch detrend=linear.
+SC4011E0-PSG.edf,5100.0,961.56,2496.0,1144.0,18.854,48.941,22.431,8,157,153,164,19.625,19.125,20.5,Pz-Oz,Theta computed from EEG Pz-Oz; labels from EOG.,Bandpass 0.1–60.0 Hz; Welch detrend=linear.
+SC4012E0-PSG.edf,5280.0,1012.35,1632.0,2164.0,19.173,30.909,40.985,18,162,149,232,9.0,8.278,12.889,Pz-Oz,Theta computed from EEG Pz-Oz; labels from EOG.,Bandpass 0.1–60.0 Hz; Welch detrend=linear.
+SC4021E0-PSG.edf,4890.0,925.28,2640.0,824.0,18.922,53.988,16.851,15,145,138,144,9.667,9.2,9.6,Pz-Oz,Theta computed from EEG Pz-Oz; labels from EOG.,Bandpass 0.1–60.0 Hz; Welch detrend=linear.
+SC4022E0-PSG.edf,5370.0,977.34,1996.0,1944.0,18.2,37.169,36.201,11,148,167,231,13.455,15.182,21.0,Pz-Oz,Theta computed from EEG Pz-Oz; labels from EOG.,Bandpass 0.1–60.0 Hz; Welch detrend=linear.
+SC4031E0-PSG.edf,6270.0,1600.25,2964.0,1136.0,25.522,47.273,18.118,10,175,205,200,17.5,20.5,20.0,Pz-Oz,Theta computed from EEG Pz-Oz; labels from EOG.,Bandpass 0.1–60.0 Hz; Welch detrend=linear.
+SC4032E0-PSG.edf,5970.0,1433.28,2388.0,1516.0,24.008,40.0,25.394,12,206,205,234,17.167,17.083,19.5,Pz-Oz,Theta computed from EEG Pz-Oz; labels from EOG.,Bandpass 0.1–60.0 Hz; Welch detrend=linear.
+SC4041E0-PSG.edf,5880.0,1507.66,2940.0,852.0,25.64,50.0,14.49,24,194,150,156,8.083,6.25,6.5,Pz-Oz,Theta computed from EEG Pz-Oz; labels from EOG.,Bandpass 0.1–60.0 Hz; Welch detrend=linear.
+SC4042E0-PSG.edf,8100.0,1951.3,4268.0,1128.0,24.09,52.691,13.926,33,249,184,193,7.545,5.576,5.848,Pz-Oz,Theta computed from EEG Pz-Oz; labels from EOG.,Bandpass 0.1–60.0 Hz; Welch detrend=linear.
+SC4051E0-PSG.edf,2040.0,441.29,1244.0,104.0,21.632,60.98,5.098,3,71,62,20,23.667,20.667,6.667,Pz-Oz,Theta computed from EEG Pz-Oz; labels from EOG.,Bandpass 0.1–60.0 Hz; Welch detrend=linear.
+SC4052E0-PSG.edf,5400.0,1281.89,2360.0,1136.0,23.739,43.704,21.037,12,190,197,205,15.833,16.417,17.083,Pz-Oz,Theta computed from EEG Pz-Oz; labels from EOG.,Bandpass 0.1–60.0 Hz; Welch detrend=linear.
+SC4061E0-PSG.edf,3060.0,690.01,1380.0,664.0,22.549,45.098,21.699,4,101,127,123,25.25,31.75,30.75,Pz-Oz,Theta computed from EEG Pz-Oz; labels from EOG.,Bandpass 0.1–60.0 Hz; Welch detrend=linear.
+SC4062E0-PSG.edf,5610.0,939.85,3244.0,916.0,16.753,57.825,16.328,6,156,169,157,26.0,28.167,26.167,Pz-Oz,Theta computed from EEG Pz-Oz; labels from EOG.,Bandpass 0.1–60.0 Hz; Welch detrend=linear.
+SC4071E0-PSG.edf,5940.0,1610.15,3356.0,352.0,27.107,56.498,5.926,11,189,149,75,17.182,13.545,6.818,Pz-Oz,Theta computed from EEG Pz-Oz; labels from EOG.,Bandpass 0.1–60.0 Hz; Welch detrend=linear.
+SC4072E0-PSG.edf,5040.0,1493.34,1948.0,1036.0,29.63,38.651,20.556,31,172,185,181,5.548,5.968,5.839,Pz-Oz,Theta computed from EEG Pz-Oz; labels from EOG.,Bandpass 0.1–60.0 Hz; Welch detrend=linear.
+SC4081E0-PSG.edf,3930.0,857.83,1400.0,1324.0,21.828,35.623,33.69,4,116,102,165,29.0,25.5,41.25,Pz-Oz,Theta computed from EEG Pz-Oz; labels from EOG.,Bandpass 0.1–60.0 Hz; Welch detrend=linear.
+SC4082E0-PSG.edf,7800.0,1724.89,2608.0,2692.0,22.114,33.436,34.513,8,256,233,316,32.0,29.125,39.5,Pz-Oz,Theta computed from EEG Pz-Oz; labels from EOG.,Bandpass 0.1–60.0 Hz; Welch detrend=linear.
+SC4091E0-PSG.edf,6960.0,1728.61,4164.0,300.0,24.836,59.828,4.31,17,218,198,63,12.824,11.647,3.706,Pz-Oz,Theta computed from EEG Pz-Oz; labels from EOG.,Bandpass 0.1–60.0 Hz; Welch detrend=linear.
+SC4092E0-PSG.edf,7950.0,2472.93,4140.0,480.0,31.106,52.075,6.038,12,258,220,116,21.5,18.333,9.667,Pz-Oz,Theta computed from EEG Pz-Oz; labels from EOG.,Bandpass 0.1–60.0 Hz; Welch detrend=linear.
+SC4101E0-PSG.edf,6210.0,1654.47,2568.0,1376.0,26.642,41.353,22.158,4,193,179,208,48.25,44.75,52.0,Pz-Oz,Theta computed from EEG Pz-Oz; labels from EOG.,Bandpass 0.1–60.0 Hz; Welch detrend=linear.
+SC4102E0-PSG.edf,5970.0,1676.58,2076.0,1616.0,28.083,34.774,27.069,3,202,168,226,67.333,56.0,75.333,Pz-Oz,Theta computed from EEG Pz-Oz; labels from EOG.,Bandpass 0.1–60.0 Hz; Welch detrend=linear.
+SC4111E0-PSG.edf,4740.0,1196.73,2424.0,576.0,25.247,51.139,12.152,6,150,148,111,25.0,24.667,18.5,Pz-Oz,Theta computed from EEG Pz-Oz; labels from EOG.,Bandpass 0.1–60.0 Hz; Welch detrend=linear.
+SC4112E0-PSG.edf,4530.0,1976.36,1572.0,324.0,43.628,34.702,7.152,7,212,138,76,30.286,19.714,10.857,Pz-Oz,Theta computed from EEG Pz-Oz; labels from EOG.,Bandpass 0.1–60.0 Hz; Welch detrend=linear.
+SC4121E0-PSG.edf,7740.0,1806.21,4860.0,300.0,23.336,62.791,3.876,8,221,185,60,27.625,23.125,7.5,Pz-Oz,Theta computed from EEG Pz-Oz; labels from EOG.,Bandpass 0.1–60.0 Hz; Welch detrend=linear.
