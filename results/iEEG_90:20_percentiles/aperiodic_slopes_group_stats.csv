@@ -1,0 +1,13 @@
+channel,band,comparison,n_subjects,mean_diff,t_stat,p_value
+hippocampus,2-30 Hz,phasic_vs_tonic,6,-0.039,-1.142,0.3050931891311332
+hippocampus,2-30 Hz,phasic_vs_transition,6,-0.06,-1.393,0.22225643181070215
+hippocampus,2-30 Hz,tonic_vs_transition,6,-0.021,-0.522,0.6240447388661663
+hippocampus,30-48 Hz,phasic_vs_tonic,6,-0.129,-0.5,0.6381586658239732
+hippocampus,30-48 Hz,phasic_vs_transition,6,-0.375,-1.139,0.3063217118039138
+hippocampus,30-48 Hz,tonic_vs_transition,6,-0.246,-1.995,0.10264370756942794
+cortex,2-30 Hz,phasic_vs_tonic,6,0.118,1.291,0.253081631463921
+cortex,2-30 Hz,phasic_vs_transition,6,0.044,0.571,0.5925907301995289
+cortex,2-30 Hz,tonic_vs_transition,6,-0.074,-3.76,0.013163726262797298
+cortex,30-48 Hz,phasic_vs_tonic,6,-0.457,-2.147,0.0845924524454617
+cortex,30-48 Hz,phasic_vs_transition,6,-0.377,-1.594,0.17190850600493024
+cortex,30-48 Hz,tonic_vs_transition,6,0.08,1.436,0.21058937312839332

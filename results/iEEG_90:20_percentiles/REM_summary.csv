@@ -1,0 +1,8 @@
+recording,subject,night,total_rem_s,total_phasic_s,total_tonic_s,total_transition_s,pct_phasic_of_rem,pct_tonic_of_rem,pct_transition_of_rem,n_rem_periods,n_phasic_bouts,n_tonic_bouts,n_transition_bouts,mean_phasic_bouts_per_rem,mean_tonic_bouts_per_rem,mean_transition_bouts_per_rem,phasic_percentile_threshold_uV,tonic_percentile_threshold_uV,classification_metric,phasic_percentile,tonic_percentile
+S15N1,15,1,5390.0,540.0,1076.0,3756.0,10.019,19.963,69.685,22,109,185,271,4.955,8.409,12.318,31.292,15.413,max_abs,90.0,20.0
+S15N2,15,2,3120.0,312.0,624.0,2176.0,10.0,20.0,69.744,8,55,98,137,6.875,12.25,17.125,31.856,17.0,max_abs,90.0,20.0
+S28N2,28,2,7770.0,776.0,1552.0,5428.0,9.987,19.974,69.858,15,149,277,384,9.933,18.467,25.6,24.438,13.649,max_abs,90.0,20.0
+S87N1,87,1,4960.0,496.0,988.0,3440.0,10.0,19.919,69.355,33,108,179,258,3.273,5.424,7.818,44.372,26.33,max_abs,90.0,20.0
+S87N2,87,2,6770.0,676.0,1352.0,4728.0,9.985,19.97,69.838,15,135,232,341,9.0,15.467,22.733,35.518,21.143,max_abs,90.0,20.0
+S2N1,2,1,5940.0,592.0,1184.0,4132.0,9.966,19.933,69.562,24,109,205,283,4.542,8.542,11.792,31.605,18.939,max_abs,90.0,20.0
+S2N2,2,2,6470.0,644.0,1288.0,4500.0,9.954,19.907,69.552,29,125,217,319,4.31,7.483,11.0,30.636,16.77,max_abs,90.0,20.0
