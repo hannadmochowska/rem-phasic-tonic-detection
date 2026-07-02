@@ -1,0 +1,11 @@
+state,feature,mean,std,state_label
+0,eog_envelope,-0.123,0.912,tonic
+0,sawtooth_power,-0.059,0.926,tonic
+0,spindle_power,0.01,0.966,tonic
+0,theta_power,0.032,1.01,tonic
+0,delta_theta_ratio,-0.047,0.928,tonic
+1,eog_envelope,0.144,1.076,phasic
+1,sawtooth_power,0.069,1.076,phasic
+1,spindle_power,-0.012,1.038,phasic
+1,theta_power,-0.037,0.987,phasic
+1,delta_theta_ratio,0.055,1.076,phasic

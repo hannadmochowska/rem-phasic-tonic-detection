@@ -1,0 +1,16 @@
+state,feature,mean,std,state_label
+0,eog_envelope,-0.546,0.553,tonic
+0,sawtooth_power,-0.191,0.711,tonic
+0,spindle_power,0.065,0.982,tonic
+0,theta_power,0.089,1.051,tonic
+0,delta_theta_ratio,-0.137,0.741,tonic
+1,eog_envelope,0.025,0.968,transition
+1,sawtooth_power,0.021,1.081,transition
+1,spindle_power,0.042,1.097,transition
+1,theta_power,0.039,1.096,transition
+1,delta_theta_ratio,0.04,1.103,transition
+2,eog_envelope,0.523,1.093,phasic
+2,sawtooth_power,0.169,1.116,phasic
+2,spindle_power,-0.112,0.89,phasic
+2,theta_power,-0.133,0.802,phasic
+2,delta_theta_ratio,0.093,1.089,phasic

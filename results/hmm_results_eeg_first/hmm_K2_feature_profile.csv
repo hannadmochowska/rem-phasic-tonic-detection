@@ -1,0 +1,13 @@
+state,feature,mean,std,state_label
+0,sawtooth_fpz,-0.269,0.519,tonic
+0,theta_fpz,-0.248,0.654,tonic
+0,delta_fpz,-0.275,0.483,tonic
+0,spindle_pzoz,-0.098,0.755,tonic
+0,theta_pzoz,-0.145,0.778,tonic
+0,delta_theta_pzoz,-0.072,0.814,tonic
+1,sawtooth_fpz,0.652,1.474,phasic
+1,theta_fpz,0.601,1.371,phasic
+1,delta_fpz,0.667,1.494,phasic
+1,spindle_pzoz,0.237,1.402,phasic
+1,theta_pzoz,0.351,1.335,phasic
+1,delta_theta_pzoz,0.175,1.332,phasic
